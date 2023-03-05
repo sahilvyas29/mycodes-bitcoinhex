@@ -1,0 +1,15 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+yarn-error.log
+optimized-out
+reference-out
+out
+
+# Hardhat files
+cache
+artifacts
+
